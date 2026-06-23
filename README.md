@@ -43,7 +43,7 @@ No venv, no pip packages needed to generate the video:
 Sample DJI videos and their telemetry (including the `DJI_0047` clip used to test
 this tool, plus a few others under `QGISFMV_Samples/DJI/`) are available here:
 
-- **Google Drive:** <https://drive.google.com/file/d/10LA6zWLXn6VraOMvQ15MR7XZGAwLlTU9/view?usp=drive_link>
+- **Google Drive:** <https://drive.google.com/file/d/137JaQwx5kVwhdcrxwTCSgxqBbaOjW9be/view?usp=sharing>
 
 Download a video + its `telemetry.csv` and point `--video` / `--csv` at them.
 
